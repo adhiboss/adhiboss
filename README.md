@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adithya Gowda</h1>
+<h1 align="center">Hi I'm Adithya Gowda</h1>
 
 <p align="center">
   A 2nd-year B.Tech student at Jain University • Linux & Cloud enthusiast • Backend & systems learner
