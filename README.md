@@ -1,98 +1,115 @@
-<h1 align="center">Hi I'm Adithya Gowda</h1>
+<!-- ✨ Typing Animated Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=34&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Adithya+Gowda!;🐧+Linux+%26+Systems+Learner;⚙️+Backend+%26+Cloud+Enthusiast;📚+Computer+Science+Student;🌟+Lifelong+Learner" alt="Typing Animation"/>
+</h1>
 
 <p align="center">
-  A 2nd-year B.Tech student at Jain University • Linux & Cloud enthusiast • Backend & systems learner
+💡 <i>““Learning systems. Building foundations. Growing every day.”</i>
 </p>
+
+
+
+
+
+## 🌟 About Me  
+
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="340" height="250"/>
+
+✨ I’m **Adithya Gowda**, a Computer Science student at **Jain University**, focused on building strong foundations in:
+
+- 🐧 Linux & System Engineering  
+- ⚙️ Backend Development  
+- ☁️ Cloud Computing (AWS – learning)  
+- 🧠 Learning by building real projects  
+
+I believe in **learning step by step**, practicing daily, and documenting everything I build.
+
+---
+
+## 🔭 Current Focus  
+
+- Strengthening Linux fundamentals & shell scripting  
+- Building system-level automation projects  
+- Learning backend development with Node.js & Python  
+- Exploring AWS (EC2, S3 basics)  
+- Practicing professional Git & GitHub workflows  
+
+---
+
+## 🛠️ Tech Stack  
 
 <p align="center">
-  I focus on building <b>real systems</b> — from Linux automation to cloud deployments and ML-powered applications.  
-  I enjoy solving infrastructure problems, working close to servers, and understanding how production systems really run.
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terminal.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="45"/>
+
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" width="45"/>
+
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nodejs.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" width="45"/>
+
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vscode.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" width="45"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" width="45"/>
 </p>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🖥️ Smart System Monitor  
+**Tech:** Linux, Bash, Cron  
+- Collects CPU, memory, disk usage  
+- Runs automatically using cron  
+- Real system monitoring foundation  
+
+🔗 https://github.com/adhiboss/smart-system-monitor  
+
+---
+
+### 📒 Daily Tech Notes  
+**Tech:** Linux, Git  
+- Daily learning log for Linux & systems  
+- Tracks consistency and progress  
+
+🔗 https://github.com/adhiboss/daily-tech-notes  
+
+---
+
+## 📈 Learning Philosophy  
+
+- Build small but real projects  
+- Practice every day  
+- Focus on fundamentals  
+- Grow step by step  
+
+
+
+
+## 🤝 Connect With Me  
 
 <p align="center">
-  Currently preparing myself for roles in <b>Backend / Platform / Cloud Engineering</b>, while building strong foundations in
-  Linux, Networking, and Distributed Systems.
-</p>
-
-<h3 align="center">Aspiring Software Engineer — Backend • Systems • Cloud</h3>
-
----
-
-## 🚀 What I’m Working On
-- **Accident Detection & Alert System** — ML/DL based real-time safety solution  
-- **Smart Sentry** — YOLO-based deep learning model for surveillance  
-- **Ooru Connect** — Startup initiative for community services  
-- Research work in **Computer Vision & Applied AI**
-
----
-
-## 🌱 Currently Learning
-- **Cloud:** AWS (EC2, S3, IAM, VPC basics)  
-- **OS & Systems:** Linux internals, shell scripting  
-- **Backend:** Node.js, Express, REST APIs  
-- **Programming:** Python, Core DSA  
-- **Foundations:** Networking basics, Git workflows  
-- **Language:** Japanese (JLPT N5 aspirant) , Kannada , English , Hindi , Tamil
-
----
-
-## 🎯 Career Focus
-- Software Engineer with strong grounding in:
-  - Backend systems
-  - Cloud platforms
-  - Linux administration
-  - Production debugging  
-- Long-term interest in **Platform Engineering / SRE / Cloud Infrastructure** roles.
-
----
-
-## 👨‍💻 Projects
-All my work is here 👉  
-🔗 https://github.com/adhiboss
-
----
-
-## 💬 Ask Me About
-**Linux • AWS • Git • Python • Backend basics • ML projects**
-
----
-
-## 📫 Reach Me
-📧 adithyagowdaadhi9@gmail.com  
-
----
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/adhigowda2006" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/adithyaxgowda" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
+  <a href="https://github.com/adhiboss" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adhigowda2006" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:adithyagowdaadhi9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Career Goals  
 
-### Core Systems
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git)](https://skillicons.dev)
-
-### Programming
-[![My Skills](https://skillicons.dev/icons?i=python,javascript)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" width="40"/>
-
-
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-
-### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-
-### Cloud & Tools
-[![My Skills](https://skillicons.dev/icons?i=aws,github)](https://skillicons.dev)
-
-
-
+- Become a strong Backend / Systems Engineer  
+- Master Linux, OS, and Networking fundamentals  
+- Build scalable backend systems  
+- Gain real-world experience through projects and internships  
+- Work in platform, cloud, or infrastructure engineering roles  
 
