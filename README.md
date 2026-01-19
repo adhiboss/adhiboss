@@ -32,7 +32,7 @@
 - **Backend:** Node.js, Express, REST APIs  
 - **Programming:** Python, Core DSA  
 - **Foundations:** Networking basics, Git workflows  
-- **Language:** Japanese (JLPT N5 aspirant)
+- **Language:** Japanese (JLPT N5 aspirant) , Kannada , English , Hindi , Tamil
 
 ---
 
