@@ -74,16 +74,25 @@ All my work is here 👉
 
 ---
 
-<h3 align="left">Tech Stack</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-</p>
+## 🛠️ Tech Stack
+
+### Core Systems
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git)](https://skillicons.dev)
+
+### Programming
+[![My Skills](https://skillicons.dev/icons?i=python,javascript)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" width="40"/>
+
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+### Cloud & Tools
+[![My Skills](https://skillicons.dev/icons?i=aws,github)](https://skillicons.dev)
+
+
+
+
