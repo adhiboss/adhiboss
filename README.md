@@ -57,25 +57,38 @@ I believe in **learning step by step**, practicing daily, and documenting everyt
 </p>
 
 ---
+## 🚀 Portfolio Highlights  
 
-## 🚀 Featured Projects  
+### 📌 Systems + Networking Learning Portfolio
+I’m building a strong foundation in **Linux, Networking, and Systems Engineering** through daily practice and hands-on labs.
 
-### 🖥️ Smart System Monitor  
-**Tech:** Linux, Bash, Cron  
-- Collects CPU, memory, disk usage  
-- Runs automatically using cron  
-- Real system monitoring foundation  
-
-🔗 https://github.com/adhiboss/smart-system-monitor  
+✔ Daily documentation of concepts  
+✔ Practical experiments in WSL/Linux  
+✔ Networking labs (DNS, TCP, HTTP, sockets)  
+✔ C-based systems programming practice  
 
 ---
 
-### 📒 Daily Tech Notes  
-**Tech:** Linux, Git  
-- Daily learning log for Linux & systems  
-- Tracks consistency and progress  
+## 🧩 What I’m Building Right Now  
 
-🔗 https://github.com/adhiboss/daily-tech-notes  
+### 🐧 Linux + Networking Labs
+- Socket programming practice  
+- HTTP lifecycle experiments  
+- DNS troubleshooting and analysis  
+- Firewall + TCP connection testing  
+
+### ⚙️ C Systems Programming
+- File descriptors and I/O  
+- Process creation (`fork`, `exec`)  
+- Threads using `pthreads`  
+- TCP client/server implementations  
+
+### ☁️ Cloud Learning (AWS)
+- EC2 and SSH deployment basics  
+- S3 storage fundamentals  
+- Linux server management practice  
+
+---
 
 ---
 
