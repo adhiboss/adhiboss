@@ -117,11 +117,5 @@ I’m building a strong foundation in **Linux, Networking, and Systems Engineeri
 
 ---
 
-## 🎯 Career Goals  
 
-- Become a strong Backend / Systems Engineer  
-- Master Linux, OS, and Networking fundamentals  
-- Build scalable backend systems  
-- Gain real-world experience through projects and internships  
-- Work in platform, cloud, or infrastructure engineering roles  
 
