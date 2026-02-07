@@ -36,25 +36,24 @@ I believe in **learning step by step**, practicing daily, and documenting everyt
 
 ---
 
-## 🛠️ Tech Stack  
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/linux.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terminal.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
 
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/nodejs.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vscode.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" width="45"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
+
 </p>
+
 
 ---
 ## 🚀 Portfolio Highlights  
