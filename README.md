@@ -4,12 +4,10 @@
 </h1>
 
 <p align="center">
-💡 <i>““Learning systems. Building foundations. Growing every day.”</i>
+💡 <i>"Learning systems. Building foundations. Growing every day."</i>
 </p>
 
-
-
-
+---
 
 ## 🌟 About Me  
 
@@ -17,10 +15,11 @@
 
 ✨ I’m **Adithya Gowda**, a Computer Science student at **Jain University**, focused on building strong foundations in:
 
-- 🐧 Linux & System Engineering  
+- 🐧 Linux & Systems Engineering  
+- 🌐 Networking & Protocols  
 - ⚙️ Backend Development  
 - ☁️ Cloud Computing (AWS – learning)  
-- 🧠 Learning by building real projects  
+- 🧠 Learning through real projects and labs  
 
 I believe in **learning step by step**, practicing daily, and documenting everything I build.
 
@@ -29,12 +28,14 @@ I believe in **learning step by step**, practicing daily, and documenting everyt
 ## 🔭 Current Focus  
 
 - Strengthening Linux fundamentals & shell scripting  
-- Building system-level automation projects  
+- Building networking + system-level labs  
 - Learning backend development with Node.js & Python  
-- Exploring AWS (EC2, S3 basics)  
-- Practicing professional Git & GitHub workflows  
+- Exploring AWS (EC2, IAM, S3 basics)  
+- Practicing professional Git workflows daily  
 
 ---
+
+## 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
@@ -48,23 +49,40 @@ I believe in **learning step by step**, practicing daily, and documenting everyt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
 </p>
 
-
 ---
+
 ## 🚀 Portfolio Highlights  
 
 ### 📌 Systems + Networking Learning Portfolio
-I’m building a strong foundation in **Linux, Networking, and Systems Engineering** through daily practice and hands-on labs.
+I’m building strong foundations in **Linux, Networking, and Systems Engineering** through daily documentation and hands-on labs.
 
-✔ Daily documentation of concepts  
-✔ Practical experiments in WSL/Linux  
-✔ Networking labs (DNS, TCP, HTTP, sockets)  
+✔ Daily learning notes and structured progress  
+✔ Networking labs (DNS, TCP, HTTP, ports, sockets)  
+✔ Linux troubleshooting and server fundamentals  
 ✔ C-based systems programming practice  
+
+---
+
+## 📂 Featured Repositories (Main Work)
+
+🔹 **📒 Daily Tech Notes**  
+👉 https://github.com/adhiboss/daily-tech-notes  
+
+🔹 **🌐 Linux Networking Lab (Hands-on Labs)**  
+👉 https://github.com/adhiboss/linux-networking-lab  
+
+🔹 **🖥️ Smart System Monitor (Linux Monitoring Project)**  
+👉 https://github.com/adhiboss/smart-system-monitor  
+
+🔹 **☁️ AWS Linux Server Playbook (EC2 + Linux Guide)**  
+👉 https://github.com/adhiboss/aws-linux-server-playbook  
+
+🔹 **📌 Linux Networking Cheatsheet**  
+👉 https://github.com/adhiboss/linux-networking-cheatsheet  
 
 ---
 
@@ -77,17 +95,23 @@ I’m building a strong foundation in **Linux, Networking, and Systems Engineeri
 - Firewall + TCP connection testing  
 
 ### ⚙️ C Systems Programming
-- File descriptors and I/O  
+- File descriptors and Linux I/O  
 - Process creation (`fork`, `exec`)  
 - Threads using `pthreads`  
 - TCP client/server implementations  
 
 ### ☁️ Cloud Learning (AWS)
-- EC2 and SSH deployment basics  
-- S3 storage fundamentals  
-- Linux server management practice  
+- EC2 deployment + SSH access  
+- S3 fundamentals  
+- Linux server security basics  
 
 ---
+
+## 🎯 Career Goals  
+- Become a strong Systems / Backend Engineer  
+- Master Linux, OS concepts, and networking fundamentals  
+- Build real infrastructure projects  
+- Work in cloud/platform engineering roles  
 
 ---
 
@@ -96,10 +120,9 @@ I’m building a strong foundation in **Linux, Networking, and Systems Engineeri
 - Build small but real projects  
 - Practice every day  
 - Focus on fundamentals  
-- Grow step by step  
+- Improve step by step  
 
-
-
+---
 
 ## 🤝 Connect With Me  
 
@@ -116,6 +139,4 @@ I’m building a strong foundation in **Linux, Networking, and Systems Engineeri
 </p>
 
 ---
-
-
-
+⭐ Thanks for visiting my profile. I update my GitHub daily.
