@@ -121,7 +121,7 @@ I’m building strong foundations in **Linux, Networking, and Systems Engineerin
 - Practice every day  
 - Focus on fundamentals  
 - Improve step by step  
-
+- One Step at a time
 ---
 
 ## 🤝 Connect With Me  
