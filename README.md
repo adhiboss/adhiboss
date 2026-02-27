@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 About Me  
+## 🌟 About Me:
 
 <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="340" height="250"/>
 
