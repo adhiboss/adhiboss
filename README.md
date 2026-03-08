@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 About Me:
+## 🌟 About Me: [![Portfolio](https://img.shields.io/badge/Portfolio-adhigowda.me-blue?style=for-the-badge)](https://adhigowda.me)
 
 <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="340" height="250"/>
 
