@@ -9,9 +9,12 @@
 
 ---
 
-## 🌟 About Me: [![Portfolio](https://img.shields.io/badge/Portfolio-adhigowda.me-blue?style=for-the-badge)](https://adhigowda.me)
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="340" height="250"/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-adhigowda.me-00FF88?style=flat-square&labelColor=0D1117)](https://adhigowda.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adhigowda2006-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/adhigowda2006)
+[![GitHub](https://img.shields.io/badge/GitHub-adhiboss-181717?style=flat-square&logo=github)](https://github.com/adhiboss)
+[![Email](https://img.shields.io/badge/Email-adithyagowdaadhi9@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:adithyagowdaadhi9@gmail.com)
 
 ✨ I’m **Adithya Gowda**, a Computer Science student at **Jain University**, focused on building strong foundations in:
 
