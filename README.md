@@ -37,21 +37,31 @@ I believe in **learning step by step**, practicing daily, and documenting everyt
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+**Systems & OS**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+**Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+**Security & Networking**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-000000?style=flat-square&logo=openssh&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-</p>
+**Dev & Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
 
 ---
 
@@ -67,22 +77,15 @@ I’m building strong foundations in **Linux, Networking, and Systems Engineerin
 
 ---
 
-## 📂 Featured Repositories (Main Work)
+## Projects
 
-🔹 **📒 Daily Tech Notes**  
-👉 https://github.com/adhiboss/daily-tech-notes  
-
-🔹 **🌐 Linux Networking Lab (Hands-on Labs)**  
-👉 https://github.com/adhiboss/linux-networking-lab  
-
-🔹 **🖥️ Smart System Monitor (Linux Monitoring Project)**  
-👉 https://github.com/adhiboss/smart-system-monitor  
-
-🔹 **☁️ AWS Linux Server Playbook (EC2 + Linux Guide)**  
-👉 https://github.com/adhiboss/aws-linux-server-playbook  
-
-🔹 **📌 Linux Networking Cheatsheet**  
-👉 https://github.com/adhiboss/linux-networking-cheatsheet  
+| Project | Description | Stack |
+|---|---|---|
+| [📒 daily-tech-notes](https://github.com/adhiboss/daily-tech-notes) | Structured daily logs — Linux, Cloud, Security | Markdown, Git |
+| [🌐 linux-networking-lab](https://github.com/adhiboss/linux-networking-lab) | Hands-on DNS, TCP/IP, socket programming labs | Bash, C, Wireshark |
+| [🖥️ smart-system-monitor](https://github.com/adhiboss/smart-system-monitor) | Real-time Linux metrics: CPU, memory, disk, network | Bash, Python |
+| [☁️ aws-linux-server-playbook](https://github.com/adhiboss/aws-linux-server-playbook) | EC2 provisioning, IAM hardening, SSH hardening guide | AWS, Bash |
+| [📌 linux-networking-cheatsheet](https://github.com/adhiboss/linux-networking-cheatsheet) | Field reference: iptables, ss, dig, curl, nmap | Markdown |
 
 ---
 
