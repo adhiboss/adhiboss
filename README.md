@@ -23,3 +23,4 @@ Linux | Bash | C | TCP/IP | HTTP | AWS | Docker | Nginx | Git
 
 ---
 Consistency > Motivation
+![SysWatch Demo](demo.gif)
