@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me:
 ```yaml
 name: Adithya Gowda
 age: 18
