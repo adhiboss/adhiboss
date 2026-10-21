@@ -1,0 +1,48 @@
+<svg width="800" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      text { font-family: 'Fira Code','Courier New',monospace; font-size: 16px; }
+      .p { fill: #ff3030; }
+      .c { fill: #ffffff; }
+      .o { fill: #8b949e; }
+      .h { fill: #ff7b7b; }
+      .l { opacity: 0; }
+      .l1 { animation: k1 14s infinite; }
+      .l2 { animation: k2 14s infinite; }
+      .l3 { animation: k3 14s infinite; }
+      .l4 { animation: k4 14s infinite; }
+      .l5 { animation: k5 14s infinite; }
+      .l6 { animation: k6 14s infinite; }
+      .cur { animation: blink 1s steps(1) infinite; }
+      @keyframes k1 { 0%,2% {opacity:0} 3%,94% {opacity:1} 97%,100% {opacity:0} }
+      @keyframes k2 { 0%,12% {opacity:0} 13%,94% {opacity:1} 97%,100% {opacity:0} }
+      @keyframes k3 { 0%,26% {opacity:0} 27%,94% {opacity:1} 97%,100% {opacity:0} }
+      @keyframes k4 { 0%,42% {opacity:0} 43%,94% {opacity:1} 97%,100% {opacity:0} }
+      @keyframes k5 { 0%,58% {opacity:0} 59%,94% {opacity:1} 97%,100% {opacity:0} }
+      @keyframes k6 { 0%,72% {opacity:0} 73%,94% {opacity:1} 97%,100% {opacity:0} }
+      @keyframes blink { 0%,50% {opacity:1} 51%,100% {opacity:0} }
+    </style>
+  </defs>
+
+  <rect x="2" y="2" width="796" height="316" rx="12" fill="#080d16" stroke="#ff1717" stroke-width="2"/>
+  <path d="M2 14a12 12 0 0 1 12-12h772a12 12 0 0 1 12 12V40H2z" fill="#14070a"/>
+  <circle cx="26" cy="22" r="7" fill="#ff1717"/>
+  <circle cx="50" cy="22" r="7" fill="#ffb02e"/>
+  <circle cx="74" cy="22" r="7" fill="#3fb950"/>
+  <text x="400" y="27" text-anchor="middle" class="o" style="font-size:13px">adhi@linux: ~</text>
+
+  <g class="l l1"><text x="24" y="78"><tspan class="p">$ </tspan><tspan class="c">whoami</tspan></text>
+    <text x="24" y="100" class="h">adhi_gowda</text></g>
+
+  <g class="l l2"><text x="24" y="132"><tspan class="p">$ </tspan><tspan class="c">cat about.txt</tspan></text>
+    <text x="24" y="154" class="o">CS student @ Jain University | Builder | Linux nerd</text></g>
+
+  <g class="l l3"><text x="24" y="186"><tspan class="p">$ </tspan><tspan class="c">ls skills/</tspan></text>
+    <text x="24" y="208" class="o">python  js  ts  java  cpp  react  node  docker  linux</text></g>
+
+  <g class="l l4"><text x="24" y="240"><tspan class="p">$ </tspan><tspan class="c">echo $GOAL</tspan></text>
+    <text x="24" y="262" class="h">Software engineer. Open source. Japan.</text></g>
+
+  <g class="l l5"><text x="24" y="294"><tspan class="p">$ </tspan><tspan class="c">./build --better</tspan></text></g>
+  <g class="l l6"><rect class="cur" x="204" y="280" width="10" height="18" fill="#ff1717"/></g>
+</svg>
