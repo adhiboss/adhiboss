@@ -1,8 +1,3 @@
-<!--
-    Layout inspired by Glauedson's README (https://github.com/Glauedson)
-    Used as a base with the author's permission. Go leave a star on theirs :)
--->
-
 <!-- Banner -->
 <a href="https://github.com/adhiboss">
   <img src="header.svg" alt="Adhi Gowda banner" style="width:100%; height:auto"/>
