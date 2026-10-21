@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <a href="https://github.com/adhiboss">
-  <img src="assets/header.svg" alt="Adhi Gowda banner" style="width:100%; height:auto"/>
+  <img src="header.svg" alt="Adhi Gowda banner" style="width:100%; height:auto"/>
 </a>
 
 <div align="center">
@@ -53,7 +53,7 @@ I am also a **community builder at FOSS GLUG**, helping connect developers and e
 <br/>
 
 <div align="center">
-  <img src="assets/terminal.svg" width="75%" alt="Terminal">
+  <img src="terminal.svg" width="75%" alt="Terminal">
 </div>
 
 <br/>
@@ -82,7 +82,7 @@ I am also a **community builder at FOSS GLUG**, helping connect developers and e
 <br/>
 
 <div align="center">
-  <img src="assets/divider.svg" width="100%" alt="">
+  <img src="divider.svg" width="100%" alt="">
 </div>
 
 > [!CAUTION]
@@ -130,7 +130,7 @@ I am also a **community builder at FOSS GLUG**, helping connect developers and e
 </table>
 
 <div align="center">
-  <img src="assets/divider.svg" width="100%" alt="">
+  <img src="divider.svg" width="100%" alt="">
   <h3>"Build. Learn. Break things. Build better."</h3>
   <i>Still learning. Still building. Never done.</i>
   <br/>
