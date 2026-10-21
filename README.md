@@ -33,7 +33,7 @@
 <br/>
 
 <!-- Who am I? -->
-<img src="https://github.com/adhiboss.png?size=300" width="300" align="left" alt="Adhi Gowda">
+<img src="stoic.png?size=300" width="300" align="left" alt="Adhi Gowda">
 
 <div align="center">
 
