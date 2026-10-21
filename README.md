@@ -90,15 +90,13 @@ I am also a **community builder at FOSS GLUG**, helping connect developers and e
 
 <!-- My contributions title -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=080d16&height=70&section=header&text=MY%20CONTRIBUTIONS&fontSize=32&fontColor=ff1717" width="50%" alt="My Contributions">
+
 <br/>
 <br/>
 </div>
 
-[![Adhi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adhiboss&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adhiboss/adhiboss/output/github-snake-dark.svg" width="100%" alt="Contribution snake">
+  
 </div>
 
 <table align="center">
