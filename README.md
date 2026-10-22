@@ -37,11 +37,13 @@
 
 <div align="justify">
 
-I am a **Computer Science student** at **Jain University**, currently focused on building useful software, exploring **open-source technologies**, and solving real-world problems through code. My journey is driven by **continuous learning**, **practical experience**, and a strong commitment to turning ideas into **complete and working projects**.
+**CS student at Jain University.** I don't hand-write every line, I **direct, review and ship**. AI types, I make the calls, and I own the result.
 
-Over time, I have built a solid foundation across the **software development ecosystem**, with a strong passion for `Linux` and `Open Source`, where **logic meets creativity and systems thinking**. Alongside web technologies, I experiment with `Python`, `FastAPI`, `Docker` and **applied ML**, learning by building real applications.
+I build **full-stack apps and backend APIs** with `Python`, `FastAPI`, `React`, `Node.js` and `Docker`, and I'm exploring **applied ML** by turning ideas into working projects instead of collecting half-finished repos. I also keep **daily tech notes** because learning that isn't written down gets forgotten.
 
-I am also a **community builder at FOSS GLUG**, helping connect developers and encourage collaboration. This hands-on approach has strengthened my **problem-solving skills**, **technical versatility**, and ability to turn ideas into reality, while constantly pushing me to grow as a **developer and engineer**. My long-term goal is to become a strong **software engineer** and explore opportunities in **Japan**.
+**Community builder at FOSS GLUG**, connecting developers and getting people to build together instead of alone.
+
+Goal: become a **strong software engineer** who ships real things.
 
 </div>
 
