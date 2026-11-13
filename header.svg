@@ -55,9 +55,9 @@
 
   <text x="450" y="48" class="tag">&gt;&gt; SYSTEM ONLINE &lt;&lt;</text>
 
-  <text class="title gB" x="450" y="140" fill="#5a0a0a">ADHI GOWDA</text>
-  <text class="title gA" x="450" y="140" fill="#ff1717">ADHI GOWDA</text>
-  <text class="title" x="450" y="140" fill="#ffffff">ADHI GOWDA</text>
+  <text class="title gB" x="450" y="140" fill="#5a0a0a">StoicBoi</text>
+  <text class="title gA" x="450" y="140" fill="#ff1717">StoicBoi</text>
+  <text class="title" x="450" y="140" fill="#ffffff">StoicBoi</text>
 
   <g clip-path="url(#reveal)">
     <text class="sub" x="165" y="197">CS STUDENT // DEVELOPER // LINUX // OPEN SOURCE</text>
